@@ -1,0 +1,25 @@
+{
+  "name": "svg-animated-glows",
+  "version": "1.0.0",
+  "description": "An SVG Advanced glow Experiment",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo-verelst/svg-animated-glows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jo-verelst/svg-animated-glows/issues"
+  },
+  "homepage": "https://github.com/jo-verelst/svg-animated-glows#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.23.1"
+  }
+}
